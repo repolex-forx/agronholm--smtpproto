@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/agronholm/smtpproto/commit/75dcb6c6acf5a7d0b1d6f05f6a3ec250257e84c5",
       "git:hexsha": "75dcb6c6acf5a7d0b1d6f05f6a3ec250257e84c5",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/agronholm/smtpproto/commit/6f8341ec09644e2292699ea6072b818c6c8af7c9",
